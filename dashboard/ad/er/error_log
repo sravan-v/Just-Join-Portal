@@ -1,0 +1,15 @@
+[17-Mar-2021 17:22:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php:2
+Stack trace:
+#0 /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php on line 2
+[17-Mar-2021 18:21:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php:2
+Stack trace:
+#0 /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php on line 2
+[17-Mar-2021 18:22:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php:2
+Stack trace:
+#0 /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/kkt3rihkeh0g/public_html/jj/dashboard/ad/er/er-profile-edit.php on line 2

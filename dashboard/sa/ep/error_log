@@ -1,0 +1,20 @@
+[28-Mar-2021 07:53:11 UTC] PHP Notice:  Undefined index: employee_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 153
+[28-Mar-2021 07:53:14 UTC] PHP Notice:  Undefined index: employee_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 153
+[28-Mar-2021 07:56:07 UTC] PHP Notice:  Undefined index: employeeStatus in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 22
+[28-Mar-2021 07:56:41 UTC] PHP Notice:  Undefined index: employeeStatus in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 22
+[28-Mar-2021 07:56:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-edit.php on line 76
+[28-Mar-2021 07:57:27 UTC] PHP Notice:  Undefined index: employeeStatus in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 22
+[28-Mar-2021 15:20:25 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[28-Mar-2021 15:46:36 UTC] PHP Notice:  Undefined index: count in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 124
+[07-Apr-2021 06:12:36 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[08-Apr-2021 16:12:15 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[08-Apr-2021 17:51:31 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[08-Apr-2021 19:00:22 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[11-Apr-2021 14:16:08 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[21-Apr-2021 15:58:29 UTC] PHP Notice:  Undefined index: employeeJobType in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 17
+[21-Apr-2021 16:44:58 UTC] PHP Notice:  Undefined index: employeeJobType in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 17
+[21-Apr-2021 17:33:50 UTC] PHP Notice:  Undefined index: employeeJobType in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/ep-profile-update.php on line 17
+[11-Jun-2021 19:44:34 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[19-Jun-2021 16:32:44 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/saep-dashboard.php on line 9
+[08-Sep-2021 16:22:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/view.php on line 2
+[27-Sep-2021 06:31:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/ep/view.php on line 2

@@ -1,0 +1,18 @@
+[04-Aug-2021 17:34:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[04-Aug-2021 17:34:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[04-Aug-2021 17:34:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[04-Aug-2021 17:34:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[04-Aug-2021 17:34:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[04-Aug-2021 17:34:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[04-Aug-2021 17:49:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[04-Aug-2021 17:49:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[04-Aug-2021 17:49:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[04-Aug-2021 17:49:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[05-Aug-2021 09:25:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[05-Aug-2021 09:25:45 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[05-Aug-2021 09:25:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[05-Aug-2021 09:25:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[05-Aug-2021 09:25:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 197
+[05-Aug-2021 09:25:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 198
+[24-Aug-2021 12:38:10 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 9
+[24-Aug-2021 12:38:10 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rb/sarb-dashboard.php on line 122

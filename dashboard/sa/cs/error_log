@@ -1,0 +1,53 @@
+[02-Aug-2021 14:33:33 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 9
+[24-Aug-2021 11:31:06 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 227
+[24-Aug-2021 11:31:54 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 227
+[24-Aug-2021 12:38:13 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 9
+[24-Aug-2021 12:38:13 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 109
+[24-Aug-2021 12:38:13 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 135
+[24-Aug-2021 17:33:21 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 9
+[24-Aug-2021 17:33:21 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 109
+[24-Aug-2021 17:33:21 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/sacs-dashboard.php on line 135
+[24-Aug-2021 17:33:25 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 12
+[24-Aug-2021 17:33:25 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 77
+[24-Aug-2021 17:33:25 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 102
+[24-Aug-2021 17:33:25 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 227
+[24-Aug-2021 17:41:59 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 227
+[24-Aug-2021 17:45:37 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 227
+[08-Sep-2021 16:23:13 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:23:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:23:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:23:19 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 16:23:23 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 16:23:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:23:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:23:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:23:53 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:23:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:23:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:24:52 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:24:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:24:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:24:59 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:24:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:24:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:26:34 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:26:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:26:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:26:37 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 16:26:42 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 16:26:45 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'justjoin'@'localhost' to database 'justjoin' in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:26:45 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 16:26:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:26:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:28:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'just_join'@'localhost' (using password: YES) in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:28:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:28:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:28:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'just_join'@'localhost' (using password: YES) in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:28:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:28:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:28:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'just_join'@'localhost' (using password: YES) in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 3
+[08-Sep-2021 16:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 73
+[08-Sep-2021 16:28:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/view.php on line 75
+[08-Sep-2021 16:28:51 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 17:53:40 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231
+[08-Sep-2021 17:53:46 UTC] PHP Notice:  Undefined index: employer_status in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/cs/cs-profile-edit.php on line 231

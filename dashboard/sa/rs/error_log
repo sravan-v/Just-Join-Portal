@@ -1,0 +1,58 @@
+[04-Aug-2021 17:34:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 206
+[04-Aug-2021 17:34:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 207
+[04-Aug-2021 17:34:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 206
+[04-Aug-2021 17:34:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 207
+[05-Aug-2021 09:25:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 206
+[05-Aug-2021 09:25:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 207
+[05-Aug-2021 09:25:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 206
+[05-Aug-2021 09:25:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 207
+[24-Aug-2021 12:35:42 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 12:35:42 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 12:35:42 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 12:37:13 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 12:37:13 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 12:37:13 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 12:37:17 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 12:37:17 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 12:37:17 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:35:43 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:35:43 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:35:43 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:36:14 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:36:14 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:36:14 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:36:16 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:36:16 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:36:16 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:36:23 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:36:23 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:36:23 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:36:25 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:36:25 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:36:25 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:36:31 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:36:31 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:36:31 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:38:02 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:38:02 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:38:02 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:38:49 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[24-Aug-2021 17:38:49 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[24-Aug-2021 17:38:49 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[24-Aug-2021 17:38:52 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 12
+[24-Aug-2021 17:38:52 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 77
+[24-Aug-2021 17:38:52 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 102
+[27-Sep-2021 07:05:16 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[27-Sep-2021 07:05:16 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[27-Sep-2021 07:05:16 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
+[27-Sep-2021 07:05:19 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/view.php on line 13
+[27-Sep-2021 07:05:32 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 12
+[27-Sep-2021 07:05:32 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 77
+[27-Sep-2021 07:05:32 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 102
+[27-Sep-2021 07:05:35 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 12
+[27-Sep-2021 07:05:36 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 77
+[27-Sep-2021 07:05:36 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-profile-edit.php on line 102
+[27-Sep-2021 07:05:36 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/rs-images.php on line 11
+[27-Sep-2021 07:31:19 UTC] PHP Notice:  Undefined index: role in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 9
+[27-Sep-2021 07:31:19 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 106
+[27-Sep-2021 07:31:19 UTC] PHP Notice:  Undefined index: username in /home/kkt3rihkeh0g/public_html/JJ/dashboard/sa/rs/sars-dashboard.php on line 131
