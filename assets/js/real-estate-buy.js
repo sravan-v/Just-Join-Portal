@@ -89,6 +89,7 @@ $(document).ready(function () {
                     propertyBuyerName,
                     propertyBuyerSurname,
                     propertyType,
+                    aadhar,
                     propertyOthers,
                     propertValue,
                     propertyPhonenumber,
